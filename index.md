@@ -1,10 +1,9 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Nachiket's Blog
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
+An in-development collection of resources, and whatever got me interested.
 
 
