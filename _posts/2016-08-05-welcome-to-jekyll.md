@@ -1,5 +1,5 @@
 ---
-layout: category-post
+layout: post
 title: How You Can Create This Website
 date: '2022-07-18 15:43:00 +0530'
 categories: writing
