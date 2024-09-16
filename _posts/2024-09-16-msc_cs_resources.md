@@ -40,7 +40,7 @@ And write the proofs by hand, for which I'll recommend to strictly follow the la
 
 I'll provide a collection of resources for this subject in the near future (or at least try to :?).
 
-###Software tools
+### Software tools
 I have no suggestions for the time being. It's a new subject introduced for 2024 batch, and the syllabus seems interesting.
 
 ## What's next
