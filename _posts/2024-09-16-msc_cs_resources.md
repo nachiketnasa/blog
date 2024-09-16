@@ -1,6 +1,6 @@
 ---
 title: MSc CS Resources
-layout: default
+layout: page
 
 ---
 The new syllabus is pretty exciting.
@@ -32,11 +32,15 @@ Pretty much the same advice. There's some mathematics you'll need to focus on. C
 Some of you may go the extra mile and do the all the questions from the back exercises of your book. Do this only if you're interested. These may or may not help with scoring in your examinations.
 
 ### Design and Analysis of Algorithms
-This is a challenging paper. Avoid the negative talk related to it though. Read Tardos. Read CLRS. These books have dense information, and might not be digestible in one go, so you require more resources. Go to youtube, and watch Abdul Bari videos, for revision or learning the concepts if you're entirely new to the subject. For any topic, refer to at least 5 resources before seeking help from someone. 
+This is a challenging paper. Avoid the negative talk related to it though. It's pretty fun once you start. 
+
+Read Tardos. Read CLRS. These books have dense information, and might not be digestible in one go, so you require more resources. Go to youtube, and watch Abdul Bari videos, for revision or learning the concepts if you're entirely new to the subject. For any topic, refer to at least 5 resources before seeking help from someone. 
 
 For Dynamic Programming, watch Abdul Bari to get the basics. Then refer to [neetcode] for a few problems. Watch only medium problems.
 
 And write the proofs by hand, for which I'll recommend to strictly follow the language of the prescribed books. Write word-to-word, if you have to. 
+
+If you're asked to present an NP hard problem and it's solution, try not to follow the obvious topics (like Vertex Cover). Open CLRS, read the NP hard section, and look at the problems you haven't done in class. Then look for a possible solution and present that. 
 
 I'll provide a collection of resources for this subject in the near future (or at least try to :?).
 
