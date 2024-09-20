@@ -6,7 +6,7 @@ layout: page
 The new syllabus is pretty exciting.
 Almost everything related to ML is pretty much being taken care of. Only thing to focus on will be to create some impressive projects. I'll recommend you to do these as your subject-related projects (DM project, AI project etc.) since it'll be more challenging to manage solo projects created only for the sake of resume.
 
-3 of my first semester projects had 80% repeated content from BSc, which probably made it easier for me to score well.
+3 of my first semester projects had 80% repeated content from BSc, which probably made it easier for me to score well. Those who didn't do their bachelors from DU may want to focus more on the theoretical concepts before diving into projects.
 
 Previous year papers: [here.][ducs-resources]
 I will (try to...) upload the last year assignments and papers soon.
@@ -34,6 +34,8 @@ The style in which the content is delivered by these videos may differ from the 
 
 ### Infosec
 Pretty much the same advice. There's some mathematics you'll need to focus on. Check the numericals from your prescribed book (being followed in class, not necessarily what's listed in your syllabus). Know the theory and some mathematical foundations required (e.g. ring, group, field, whatever calculations require mod etc.). Again, nothing out of what's being taught in class is required. Again, this is not a guarantee.
+
+Search Neso Academy on Youtube, with the topic you want to study, for additional reference.
 
 ### Special note
 Some of you may go the extra mile and do the all the questions from the back exercises of your book. Do this only if you're interested. These may or may not help with scoring in your examinations.
