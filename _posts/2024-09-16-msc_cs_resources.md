@@ -71,7 +71,7 @@ If you have full control over your academics, then follow this section. It's pur
 1. try practicing some questions on leetcode (complete neetcode150, and don't rote memorize the solutions).
 2. get good at gathering and reading research papers (something I don't think I have achieved yet).
 3. explore the area around. You don't have to study 24x7. I wouldn't study >4 hours a day, unless it was the day before an exam.
-4. try building your personal website WITH A PAID .COM DOMAIN. This will teach you stuff about DNS and CNAME, how to get that secure SSL lock on your site, and can even act as your resume if the frontend is really good. I am using Cloudflare DNS for this website.
+4. try building your personal website WITH A PAID .COM DOMAIN. This will teach you stuff about DNS and CNAME, how to get that secure SSL lock on your site, and can even act as your resume if the frontend is really good. I am using Cloudflare DNS' free tier for this website.
 5. focus on GATE. If you score good, you've got another backup. Follow [this][gate-guide] guide. You'll clear the exam at least, and have some knowledge of core subjects for placement.
 6. participate in hackathons. If your rank is good, well there's the other good stuff to mention on your resume.
 
