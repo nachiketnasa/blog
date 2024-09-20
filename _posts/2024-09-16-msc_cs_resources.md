@@ -4,12 +4,12 @@ layout: page
 
 ---
 The new syllabus is pretty exciting.
-You're getting to learn the stuff the industry demands, and almost everything related to ML is pretty much being taken care of. Only thing to focus on will be to create some impressive projects. I'll recommend you to do these as your subject-related projects (DM project, AI project etc.) since it'll be more challenging to manage solo projects created only for the sake of resume.
+Almost everything related to ML is pretty much being taken care of. Only thing to focus on will be to create some impressive projects. I'll recommend you to do these as your subject-related projects (DM project, AI project etc.) since it'll be more challenging to manage solo projects created only for the sake of resume.
 
-3 of my first semester projects had 80% repeated content, which probably made it easier for me to score well.
+3 of my first semester projects had 80% repeated content from BSc, which probably made it easier for me to score well.
 
 Previous year papers: [here.][ducs-resources]
-I will upload the last year assignments and papers soon.
+I will (try to...) upload the last year assignments and papers soon.
 
 [New syllabus][new-syll]
 
