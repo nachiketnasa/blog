@@ -46,7 +46,7 @@ This is a challenging paper. Avoid the negative talk related to it though. It's 
 Read Tardos. Read CLRS. These books have dense information, and might not be digestible in one go, so you require more resources. Go to youtube, and watch Abdul Bari videos, for revision or learning the concepts if you're entirely new to the subject. For any topic, refer to at least 5 resources before seeking help from someone. 
 
 [Solutions manual for Algorithm Design][tardos-sol]. Every odd number problem has solution. See the way the authors provide the solution.
-[Solutions manual for older version][tardos-sol-old]. Click the leftmost link, and then click the GET link. This probably has all solutions. 
+[Solutions manual for older version][tardos-sol-old]. Click the leftmost link, and then click the GET link. This probably has all the solutions. 
 
 Write the proofs and solutions by hand to get better understanding.
 It is not necessary to be able to solve all these questions, but they can act as a good guide.
