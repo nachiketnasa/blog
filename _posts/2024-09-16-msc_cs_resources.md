@@ -38,7 +38,7 @@ Pretty much the same advice. There's some mathematics you'll need to focus on. C
 Search Neso Academy on Youtube, with the topic you want to study, for additional reference.
 
 ### Special note
-Some of you may go the extra mile and do the all the questions from the back exercises of your book. Do this only if you're interested. These may or may not help with scoring in your examinations. Efforts to reward ratio isn't that great if you do this.
+Some of you may go the extra mile and do the all the questions from the back exercises of your book. Do this only if you're interested. These may or may not help with scoring in your examinations. Efforts to rewards ratio isn't that great if you do this.
 
 ### Design and Analysis of Algorithms
 This is a challenging paper. Avoid the negative talk related to it though. It's pretty fun once you start. 
