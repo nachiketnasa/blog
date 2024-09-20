@@ -66,7 +66,7 @@ I'll provide a collection of resources for this subject in the near future (or a
 “Young man, in mathematics you don't understand things. You just get used to them.”
 ― John von Neumann 
 
-I guess you can say the same for this subject.
+I guess you can say the same for some topics in this subject.
 
 ### Software tools
 I have no suggestions for the time being. It's a new subject introduced for 2024 batch, and the syllabus seems interesting.
