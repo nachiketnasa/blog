@@ -52,7 +52,7 @@ Write the proofs and solutions by hand to get better understanding.
 It is not necessary to be able to solve all these questions, but they can act as a good guide.
 
 For Dynamic Programming, watch Abdul Bari to get the basics. Then refer to [neetcode][neetcodeio] for a few problems. Watch only medium problems.
-If you can solve [Coin Change II][cc2], you probably have enough understanding for DP for this course. No need to follow additional space optimization.
+If you can solve [Coin Change II][cc2] and Matrix Multiplication, you probably have enough understanding for DP for this course. No need to follow additional space optimization for Coin Change II.
 neetcode.io/roadmap -> dynamic programming
 
 And write the proofs by hand (if the message wasn't clear already), for which I'll recommend to follow the language of the prescribed books. 
