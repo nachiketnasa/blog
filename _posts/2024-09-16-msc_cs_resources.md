@@ -62,6 +62,12 @@ If you're asked to present an NP hard problem and it's solution, try not to foll
 
 I'll provide a collection of resources for this subject in the near future (or at least try to :?).
 
+
+“Young man, in mathematics you don't understand things. You just get used to them.”
+― John von Neumann 
+
+I guess you can say the same for this subject.
+
 ### Software tools
 I have no suggestions for the time being. It's a new subject introduced for 2024 batch, and the syllabus seems interesting.
 
@@ -76,7 +82,7 @@ If you have full control over your academics, then follow this section. It's pur
 6. participate in hackathons. If your rank is good, well there's the other good stuff to mention on your resume.
 
 ### Finally
-Some wise guy said on reddit, "Nothing in computer science requires rote memorization; everything can be understood.". While some of you can manage to rote memorize and pass the exam, it isn't a necessity.
+Some wise guy said on reddit, "Nothing in computer science requires rote memorization; everything can be understood.". While some of you can manage to rote memorize and pass the exam, rote memorization isn't a necessity.
 
 [new-syll]:  https://cs.du.ac.in/uploads/syllabus/M.Sc.%20cs/Revised-MSc-Syllabus_June-2024.pdf
 [neetcodeio]: https.//neetcode.io/roadmap
