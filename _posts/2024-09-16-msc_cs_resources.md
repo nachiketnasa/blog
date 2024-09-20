@@ -49,7 +49,8 @@ Read Tardos. Read CLRS. These books have dense information, and might not be dig
 Write the proofs and solutions by hand to get better understanding.
 It is not necessary to be able to solve all these questions, but they can act as a good guide.
 
-For Dynamic Programming, watch Abdul Bari to get the basics. Then refer to [neetcode] for a few problems. Watch only medium problems.
+For Dynamic Programming, watch Abdul Bari to get the basics. Then refer to [neetcode][neetcodeio] for a few problems. Watch only medium problems.
+If you can solve coin change ii, you probably have enough understanding for DP for this course. No need to follow additional space optimization.
 neetcode.io/roadmap -> dynamic programming
 
 And write the proofs by hand (if the message wasn't clear already), for which I'll recommend to follow the language of the prescribed books. 
@@ -78,7 +79,7 @@ Some wise guy said on reddit, "Nothing in computer science requires rote memoriz
 [neetcodeio]: https.//neetcode.io/roadmap
 [ducs-resources]: https://drive.google.com/drive/folders/1PCwN7HTYXr7vsFPA8h2Zi02XHueyK7SY
 [tlbh]: https://www.youtube.com/watch?v=0jspaMLxBig&t=3210s
-[ml_playlist]: https://www.youtube.com/watch?v=vStJoetOxJg
+[ml-playlist]: https://www.youtube.com/watch?v=vStJoetOxJg
 [gate-guide]: https://gateoverflow.in/blog/12861/resources-i-followed-during-my-preparation
 [tardos-sol]: https://www.algorist.com/algowiki/index.php/Solution_Wiki,_The_Algorithm_Design_Manual,_3rd_Edition
 [tardos-sol-old]: https://libgen.is/book/index.php?md5=E6C8A47D55A0974177DA49EE6C25CD5B
