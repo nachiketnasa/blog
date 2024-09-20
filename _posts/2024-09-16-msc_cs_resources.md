@@ -1,5 +1,5 @@
 ---
-title: MSc CS Resources
+title: MSc CS Resources (Semester 1)
 layout: page
 
 ---
@@ -63,7 +63,7 @@ If you're asked to present an NP hard problem and it's solution, try not to foll
 I'll provide a collection of resources for this subject in the near future (or at least try to :?).
 
 
-“Young man, in mathematics you don't understand things. You just get used to them.” <br>
+“Young man, in mathematics you don't understand things. You just get used to them.” <br />
 ― John von Neumann 
 
 I guess you can say the same for some topics in this subject.
