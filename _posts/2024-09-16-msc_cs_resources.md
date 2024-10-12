@@ -14,8 +14,6 @@ Previous year papers:
 
 [ (Old Link) here.][ducs-resources]
 
-I will (try to...) upload the last year assignments and papers soon.
-
 [New syllabus][new-syll]
 
 ## Where to focus first
