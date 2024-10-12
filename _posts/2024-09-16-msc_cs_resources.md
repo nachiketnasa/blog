@@ -8,7 +8,12 @@ Almost everything related to ML is pretty much being taken care of. Only thing t
 
 3 of my first semester projects had 80% repeated content from BSc, which probably made it easier for me to score well. Those who didn't do their bachelors from DU may want to focus more on the theoretical concepts before diving into projects.
 
-Previous year papers: [here.][ducs-resources]
+Previous year papers: 
+
+[(NEW Link) here.][ducs-resources-new] 
+
+[ (Old Link) here.][ducs-resources]
+
 I will (try to...) upload the last year assignments and papers soon.
 
 [New syllabus][new-syll]
@@ -87,6 +92,7 @@ Some wise guy said on reddit, "Nothing in computer science requires rote memoriz
 
 [new-syll]:  https://cs.du.ac.in/uploads/syllabus/M.Sc.%20cs/Revised-MSc-Syllabus_June-2024.pdf
 [neetcodeio]: https.//neetcode.io/roadmap
+[ducs-resources-new]: https://drive.google.com/drive/u/0/folders/1GqPZ43PimbazLPAEmEHK15agvXQ6_Hpd
 [ducs-resources]: https://drive.google.com/drive/folders/1PCwN7HTYXr7vsFPA8h2Zi02XHueyK7SY
 [tlbh]: https://www.youtube.com/watch?v=0jspaMLxBig&t=3210s
 [ml-playlist]: https://www.youtube.com/watch?v=vStJoetOxJg
