@@ -89,7 +89,6 @@ If the cost of getting a .com domain is still a problem, at least make your port
 Some wise guy said on reddit, "Nothing in computer science requires rote memorization; everything can be understood.". While some of you can manage to rote memorize and pass the exam, rote memorization isn't a necessity.
 
 [new-syll]:  https://cs.du.ac.in/uploads/syllabus/M.Sc.%20cs/Revised-MSc-Syllabus_June-2024.pdf
-[neetcodeio]: https.//neetcode.io/roadmap
 [ducs-resources-new]: https://drive.google.com/drive/u/0/folders/1GqPZ43PimbazLPAEmEHK15agvXQ6_Hpd
 [ducs-resources]: https://drive.google.com/drive/folders/1PCwN7HTYXr7vsFPA8h2Zi02XHueyK7SY
 [tlbh]: https://www.youtube.com/watch?v=0jspaMLxBig&t=3210s
@@ -99,3 +98,4 @@ Some wise guy said on reddit, "Nothing in computer science requires rote memoriz
 [tardos-sol-old]: https://libgen.is/book/index.php?md5=E6C8A47D55A0974177DA49EE6C25CD5B
 [gate-guide]: https://gateoverflow.in/blog/12861/resources-i-followed-during-my-preparation
 [cc2]: https://leetcode.com/problems/coin-change-ii/description/
+[neetcodeio]: https.//neetcode.io/roadmap/
