@@ -12,7 +12,7 @@ Previous year papers:
 
 [(NEW Link) here.][ducs-resources-new] 
 
-[ (Old Link) here.][ducs-resources]
+[(Old Link) here.][ducs-resources]
 
 [New syllabus][new-syll]
 
